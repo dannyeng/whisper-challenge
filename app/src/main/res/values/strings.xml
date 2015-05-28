@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Whisper Challenge</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash1">Splash1</string>
+    <string name="title_activity_splash2">Splash2</string>
+    <string name="title_activity_how">how</string>
+
+</resources>
